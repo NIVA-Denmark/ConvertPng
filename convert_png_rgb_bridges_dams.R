@@ -1,6 +1,5 @@
 rm(list=ls())
 
-library("bitops")
 library("plyr")
 library("dplyr")
 library("png")
